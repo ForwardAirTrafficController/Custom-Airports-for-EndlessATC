@@ -6,7 +6,7 @@
 
 * Feel free to contact me if you find any issues.
 
-* Airports will be available in future:
+* Airports available/will be in future:
 
 1. LTFM
    1. LTFJ
