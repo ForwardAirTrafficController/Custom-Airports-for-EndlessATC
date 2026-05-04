@@ -2,7 +2,7 @@
 
 * Few airports that I made over time.
 
-* Most of these airports are in unfinished state but playable.
+* Most of these airports are playable.
 
 * Feel free to contact me if you find any issues.
 
