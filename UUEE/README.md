@@ -28,6 +28,12 @@ Enjoy!
 * Removed unused fixs.
 * Visual Improvements.
 
+4.05.2025 - Version 3.1
+
+* Aircrafts now enter TMA with corrected altitude.
+* CTR zone improvements.
+* Varius fixes. 
+
 
   
 
