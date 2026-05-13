@@ -30,10 +30,10 @@
 6. OBBI
    1. OBKH 
    2. OBBS 
-7. UUEE %100
-   1. UUDD %90
-   2. UUWW %100
-   3. UUBW %0
+7. UUEE 
+   1. UUDD 
+   2. UUWW 
+   3. UUBW 
 
 And more in future. 
    
