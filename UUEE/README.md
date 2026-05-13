@@ -1,20 +1,26 @@
-# MOSCOW TMA Pre-Release Version
+# MOSCOW TMA Pre-Release Version 4.0 # 
 
-Currently Including only UUEE - Moscow Sheremetyevo Airport and UUWW - Moscow Vnukovo Airport with full SID/STAR support. Remaining airports in TMA will be added soon. 
+One of the biggest custom airport files ever made including over 25.000 lines of code. 
 
-If you find any issues please contact me. 
+Including biggest airports of Moscow Terminal Maneuvering Area (UUEE-UUWW-UUDD) with fully integrated SID and STAR routes also with fully implemented colored sub-sectors to simplify the your job! 
+
+If you find any issues please contact me!. (open a issue)
 
 Enjoy!
 
 ### Changelog
 
-1.05.2026 - Version 2.0
+13.05.2026 - Version 4.0
 
-* Added runway 24L/C/R approaches to UUEE.
-* Added UUEE CTR zones.
-* Added Colored lines for STAR's.
-* Added PMS visualization. 
-* Fixed wrong altitude constraints at DIPOP3F.
+* Implementation of Domodedovo Airport
+* Visual improvements.
+* CTR zone improvements.
+
+4.05.2026 - Version 3.1
+
+* Aircrafts now enter TMA with corrected altitude.
+* CTR zone improvements.
+* Varius fixes. 
 
 4.05.2026 - Version 3.0
 
@@ -28,11 +34,17 @@ Enjoy!
 * Removed unused fixs.
 * Visual Improvements.
 
-4.05.2025 - Version 3.1
+1.05.2026 - Version 2.0
 
-* Aircrafts now enter TMA with corrected altitude.
-* CTR zone improvements.
-* Varius fixes. 
+* Added runway 24L/C/R approaches to UUEE.
+* Added UUEE CTR zones.
+* Added Colored lines for STAR's.
+* Added PMS visualization. 
+* Fixed wrong altitude constraints at DIPOP3F.
+
+
+
+
 
 
   
