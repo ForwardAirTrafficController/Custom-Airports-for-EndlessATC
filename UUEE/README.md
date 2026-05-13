@@ -6,6 +6,8 @@ Including biggest airports of Moscow Terminal Maneuvering Area (UUEE-UUWW-UUDD) 
 
 If you find any issues please contact me!. (open a issue)
 
+Known Problem: More Arrivals to UUWW than other airports. Don't know how to fix. "flow = " doesn't work for some reason. 
+
 Enjoy!
 
 ### Changelog
