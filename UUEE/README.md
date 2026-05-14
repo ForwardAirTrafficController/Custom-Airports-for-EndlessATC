@@ -1,4 +1,4 @@
-# MOSCOW TMA Pre-Release Version 4.0 # 
+# MOSCOW TMA Pre-Release Version 4.1 # 
 
 One of the biggest custom airport files ever made including over 25.000 lines of code! 
 
@@ -13,6 +13,11 @@ Note : P-R-D areas not implemented yet.
 Enjoy and share with others!
 
 ### Changelog
+
+14.05.2026 - Version 4.1
+
+* Removed "Flow =%" from airport sections due unrealistic behavior seen on arrival traffic.
+* Changed colored line "BILRU - LERTE"
 
 13.05.2026 - Version 4.0
 
