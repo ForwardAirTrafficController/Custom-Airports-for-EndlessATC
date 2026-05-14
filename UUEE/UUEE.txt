@@ -100,7 +100,6 @@ entrypoints =
  334, NAMIN, 15000,
  151, OLOPI, 27000,
  005, ROMTA, 16000,
-flow = 60
 
 [departure1]
 
@@ -8779,7 +8778,6 @@ entrypoints =
  192, LEKDO, 12000,
  151, OLOPI, 24000,
  005, ROMTA, 24000,
-flow = 25
 
 [departure7]
 
@@ -13048,7 +13046,6 @@ entrypoints =
  005, ROMTA, 27000
  185, TENRI, 13000
  098, URAGO, 27000
-flow = 50
 
 [departure11] 
 
