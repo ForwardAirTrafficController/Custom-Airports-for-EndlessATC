@@ -1,4 +1,4 @@
-# MOSCOW TMA Pre-Release Version 4.2 # 
+# MOSCOW TMA Pre-Release Version 4.3 # 
 
 One of the biggest custom airport files ever made including over 25.000 lines of code! 
 
@@ -8,11 +8,18 @@ Since EndlessATC does not support altitude/speed constraint for SID's and comple
 
 If you find any issues please contact me!. (open a issue)
 
-Note : P-R-D areas not implemented yet.
+Note : R-D areas not implemented yet.
 
 Enjoy and share with others!
 
 ### Changelog
+
+18.05.2026 - Version 4.3
+
+* Realistic Air Traffic added (Airlines).
+* Few significant prohibited areas added.
+* Precision/Tower area for UUWW added.
+* Few other fixes. 
 
 14.05.2026 - Version 4.2
 
