@@ -2,9 +2,9 @@
 
 * Few airports that I made over time.
 
-* Most of these airports are playable.
-
 * Feel free to contact me if you find any issues.
+
+* Current project in proggres: LTFM Rework.  
 
 * Airports available/will be in future:
 
