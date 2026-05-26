@@ -1,4 +1,4 @@
-# MOSCOW TMA Pre-Release Version 4.3 # 
+# MOSCOW TMA Pre-Release Version 4.4 # 
 
 One of the biggest custom airport files ever made including over 25.000 lines of code! 
 
@@ -13,6 +13,12 @@ Note : R-D areas not implemented yet.
 Enjoy and share with others!
 
 ### Changelog
+
+26.05.2026 - Version 4.4
+
+* Visual changes to Prohibited Area UUP-53. 
+
+* Other fixes
 
 18.05.2026 - Version 4.3
 
