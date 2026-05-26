@@ -1,22 +1,24 @@
-# Ankara Terminal Maneuver Area 
+# Ankara TMA Version 1.0
 
-- Ankara TMA ported to EndlessATC as realistic as possible.
-- It includes almost all aerodromes in TMA. (LTAD/LTAC/LTAE)
-- LTAB not supported due lack of procedures and localizer.
-- For LTAC;
-    - All runways including the new one. 
-    - All STARs, SIDs for south and north configurations.
-    - Simultaneously parallel departures are supported. 
-- For LTAD;
-    - Runway 11L/29R included
-    - Due lack of instrument procedures for 29R, approachs only available for 11L
-    - ILS/RNP/VOR approaches are included
-    - Aerodrome is currently going under construction rwy 11L/29R will be extended.
-- For LTAE;
-   - Radar vectoring needed for departures and arrivals
-- TMA is extended by few nautical miles.
-- Prohibitied and Restricted areas added Danger areas not added by preference.
-- Attention to LTR-9
+This file contains LTAC/Civ, LTAD/MilCiv and LTAE/Mil aerodromes inside Ankara TMA. 
+
+Full SID/STAR support for LTAC including new runway 03R/21L and also independent paralell departure procedures. 
+
+For LTAD, It includes RNP/VOR/LS and SID procedures supported. This airport will be updated soon with new SID/STAR and Instrument Approach procedures that coming with AIRAC 2607. 
+
+For LTAE varius procedures supported. 
+
+## Changelog
+
+-N/A
+
+
+
+
+
+
+
+
   
    
 
