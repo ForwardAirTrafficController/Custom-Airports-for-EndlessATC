@@ -1,4 +1,4 @@
-# MOSCOW TMA Pre-Release Version 4.4 # 
+# MOSCOW TMA Version 4.4 # 
 
 One of the biggest custom airport files ever made including over 25.000 lines of code! 
 
