@@ -1,12 +1,29 @@
 # Istanbul TMA Pre-release Version (Work In Progress)
 
-So far the second biggest project that I made, File is going through renovation so most of things are unfinished.
+One of the biggest EndlessATC custom airport project including more than 29.000 lines of code. 
 
-Currently it includes only LTFM with full SID/STAR support for every airspace configuration including new SID's added in recent AIRAC. 
+#### Including;
 
-I will be adding other airports in TMA very soon. 
+* LTFM, LTBA and LTFJ with full SID/STAR support.
+* Fully realistic configurations.
+* Includes few sub-sectors.
+* ... and more! 
+  
+#### In future;
 
-### Use only config 1 and 2. Other configs are unfinished.
+* Remaining airports in TMA.
+* VFR and helicopter traffic.
+* Realistic air traffic (airlines)
+
+## Changelog
+
+31.05.2026 - Version 0.0
+
+* Added LTFJ and LTBA with full SID/STAR. 
+* Added few TMA sub-sectors (Blue-Yellow)
+* Added lower ACC sectors (Green)
+
+
 
 
 
