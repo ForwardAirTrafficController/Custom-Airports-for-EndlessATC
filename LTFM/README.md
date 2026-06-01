@@ -8,6 +8,8 @@ One of the biggest EndlessATC custom airport project including more than 29.000 
 * Fully realistic configurations.
 * Including few sub-sectors.
 * Updated to recent AIRAC
+* File with ASP including Airspace sectors.
+* File without ASP does not includes Airspace sectors. 
 * ... and more! 
   
 #### In future;
