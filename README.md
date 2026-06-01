@@ -4,7 +4,7 @@
 
 * Feel free to contact me if you find any issues.
 
-* Current project in proggres: LTFM Rework.  
+* Current project in proggres: LTAI (Antalya TMA)
 
 * Airports available/will be in future:
 
