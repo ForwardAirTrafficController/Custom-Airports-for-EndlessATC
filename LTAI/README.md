@@ -18,7 +18,7 @@
 
 For LTAI There are 11 SID routes with initial climb 11000ft. Antalya's STAR's uses "Tromboning Arrivals" for sequencing which is a trickier and more complex than Point Merge System. You must be careful. It is possible to shorten the arrival via using 1S arrivals (For 18s only - Applicable for fixs before AI411 and AI709).
 
-There are 2 IAFs for each runway. Places west-east for 36s and east-north. Aircraft will be using IAF that is where approaching from. For example traffic from ALNYA1D will be using AI618 as IAF which is at east where the ALNYA beacon is but you can change it by using 1X (For 18s - applicable fixs after AI411 and AI709) and 1Q STARs (For 36s)
+There are 2 IAFs for each runway. Places west-east for 36s and east-north for 18s. Aircraft will be using IAF that is where approaching from. For example traffic from ALNYA1D will be using AI618 as IAF which is at east where the ALNYA beacon is but you can change it by using 1X (For 18s - applicable fixs after AI411 and AI709) and 1Q STARs (For 36s)
 
 LTFG is a special airport with only one configuration. 26 for departures and 08 for landings due runway is facing mountains. All SID and STAR are implementing but it missing special go around procedure due limitation. 
 
