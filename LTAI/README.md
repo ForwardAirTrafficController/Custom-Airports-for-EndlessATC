@@ -12,7 +12,7 @@
 - **Size:** 42.600 Km² (Including all Antalya APP sectors)
 - **Key airports included:**
   - `LTAI` Antalya Airport - 2nd busiest airport of the Türkiye. Antalya city is well known hollday location at the Coast of East Mediterranean Sea. 
-  - `LTFG`  – Gazipasa Airport - Regional airport with used for domestic connection for Alanya City  and holiday charters.
+  - `LTFG`  – Gazipasa Airport - Regional airport used for domestic connection for Alanya City  and holiday charters.
 
 ## Airspace Structure
 
