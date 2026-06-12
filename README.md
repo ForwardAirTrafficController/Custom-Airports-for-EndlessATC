@@ -1,43 +1,35 @@
-# Custom-Airports-for-Endless-ATC
+# Custom Airspaces for Endless ATC 
 
-* Few airports that I made over time.
+Custom airspace files for Endless ATC around the world made by Forward Air Traffic Controller at github. 
 
-* Feel free to contact me if you find any issues.
+Including worlds busiest airports and complex airspaces with %100 realism.
 
-* Current project in proggres: LTAI (Antalya TMA)
+## 📦 Included Airspaces
 
-* Airports available/will be in future:
+| Region | ICAO Codes | Status | Notes |
+|--------|------------|--------|-------|
+| Milano TMA, Italy | LIMC | ✅ Completed | Other Aerodromes in TMA not available. |
+| Ankara TMA, Türkiye | LTAC LTAD LTAE | 🚧 In progress | New procs for LTAD in progress.|
+| Antalya TMA, Türkiye | LTAI LTFG | 🚧 In testing | Found issues will fixed. |
+| Istanbul TMA, Türkiye| LTFM LTBA LTFJ | 🚧 In testing | Found issues will be fixed. |
+| Bahrain TMA, Bahrain | OBBI OBKH OBBS | ✅ Completed | Realistic air traffic will be added. |
+| Baku TMA, Azerbaijan | UBBB | ✅ Completed | Only PMS approach from south included. |
+| Moscow TMA, Russia | UUEE UUWW UUDD | ✅ Completed | Fully completed. |
 
-1. LTFM
-   1. LTFJ
-   2. LTBA
-   3. LTBU
-   4. LTBQ
-   5. LTBR
-   6. LTBP
-   7. LTBW
-   8. LTBG
-2. LTAC
-   1. LTAD
-   2. LTAE
-3. LTAI
-   1. LTFG
-4. UBBB
-5. LIMC
-   1. LIML
-   2. LIME
-   3. LSZA
-6. OBBI
-   1. OBKH 
-   2. OBBS 
-7. UUEE 
-   1. UUDD 
-   2. UUWW 
-   3. UUBW 
+## 📝 Notes
 
-And more in future. 
-   
-          
+ More Airports will be added in this summer. Mexico City TMA from Mexico including Point Merge System will be added with fixes to other files!
+ 
+ Airspaces other than Moscow TMA does not includes realistic air traffic (airlines) using base airlines EndlessATC offers due it is a very time consuming thing to implement but I will be adding them through the summer when I'm free. 
 
-  
+## 🚧 Current Project
 
+**LTAI-Antalya Approach** – In Testing / Available for download ✅ 
+
+## 📞 Contact
+
+Open an issue on GitHub or reach out directly.
+
+## 📜 License
+
+Free to use and modify.
