@@ -10,7 +10,7 @@ Including worlds busiest airports and complex airspaces with %100 realism.
 |--------|------------|--------|-------|
 | Milano TMA, Italy | LIMC | ✅ Completed | Other Aerodromes in TMA not available. |
 | Ankara TMA, Türkiye | LTAC LTAD LTAE | 🚧 In progress | New procs for LTAD in progress.|
-| Antalya TMA, Türkiye | LTAI LTFG | 🚧 In testing | Found issues will fixed. |
+| Antalya TMA, Türkiye | LTAI LTFG LTFC | ✅ Completed | Airlines will added in soon. |
 | Istanbul TMA, Türkiye| LTFM LTBA LTFJ | 🚧 In testing | Found issues will be fixed. |
 | Bahrain TMA, Bahrain | OBBI OBKH OBBS | ✅ Completed | Realistic air traffic will be added. |
 | Baku TMA, Azerbaijan | UBBB | ✅ Completed | Only PMS approach from south included. |
