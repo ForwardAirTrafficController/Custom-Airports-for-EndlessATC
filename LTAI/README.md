@@ -2,8 +2,8 @@
 
 ## Overview
 - **Name:** Antalya APP/Radar
-- **Version:** 1.0
-- **Last updated:** 11.06.2026
+- **Version:** 2.0
+- **Last updated:** 13.06.2026
 - **Difficulty:** Hard 
 - **Recommended for:** Sequencing with "Trombone" STAR structure. 
 
@@ -13,6 +13,7 @@
 - **Key airports included:**
   - `LTAI` Antalya Airport - 2nd busiest airport of the Türkiye. Antalya city is well known hollday location at the Coast of East Mediterranean Sea. 
   - `LTFG`  – Gazipasa Airport - Regional airport used for domestic connection for Alanya City  and holiday charters.
+  - `LTFC` - Isparta Airport - Regional airport with less traffic.
 
 ## Airspace Structure
 
@@ -22,18 +23,28 @@ There are 2 IAFs for each runway. Places west-east for 36s and east-north for 18
 
 LTFG is a special airport with only one configuration. 26 for departures and 08 for landings due runway is facing mountains. All SID and STAR are implementing but it missing special go around procedure due limitation. 
 
+LTFC is a small airport usually 1 or 2 daily flights. LOC approach from IPT VOR.
+
 It is recommended to watch the Airspace little bit from Flightradar24 to have a knowledge about airspace. Antalya Airport is much more busier in summer seasons. It's implemented %100 as is in real life. Of course there are some things that I didn't implemented as is like. They are due EndlessATC's limitations really. I'm using almost every feature that game presents us. I hope you enjoy it!
 
 
 ## Notes & Known Limitations
 
- - P-R-D areas and realistic airlines not implemented yet.
+Realistic air traffic (airlines) not added yet. Few Training Areas showed with purple and Danger area activated by NOTAM (Blue) only shown. 
 
 ## Credits
 - **Created by:** Deniz Berk Aydeniz
 - **Data sources:** LIDO, Eurocontrol EAD, Turkey AIP
 
 ## Changelog
+
+Version 2.0 - 13.06.2026
+
+* Added LTFC Isparta airport.
+* Added CTR zones.
+* Added few training areas and a danger area.
+* Added colored lines for STARs.
+* Fixed small issues. 
 
 Version 1.0 - 11.06.2026
 
