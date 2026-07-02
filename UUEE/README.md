@@ -1,18 +1,23 @@
-# MOSCOW TMA Version 4.4 # 
+# MOSCOW TMA Version 5.0 # 
 
-One of the biggest custom airport files ever made including over 25.000 lines of code! 
+One of the biggest custom airport files ever made including over 28.000 lines of code! 
 
-Including biggest airports of Moscow Terminal Maneuvering Area (UUEE-UUWW-UUDD) with fully integrated SID and STAR routes also with fully implemented colored sub-sectors to simplify the your job! 
+Including biggest airports of Moscow Terminal Maneuvering Area (UUEE-UUWW-UUDD-UUBW) with fully integrated SID and STAR routes and also fully implemented colored sub-sectors. 
 
 Since EndlessATC does not support altitude/speed constraint for SID's and complexity of TMA, It is recommended to play with departures closed. 
 
 If you find any issues please contact me!. (open a issue)
 
-Note : R-D areas not implemented yet.
-
 Enjoy and share with others!
 
 ### Changelog
+
+2.07.2026 - Version 5.0
+
+* Added Ramenskoye/Zhukovsky (UUBW) Airport with full SID and STAR support.
+* Added CTR zones for UUBW and missing CTR zones for UUDD airport (Yellow)
+* Added Airlines for UUBW.
+* Small Fixes for other airports.
 
 26.05.2026 - Version 4.4
 
