@@ -14,7 +14,7 @@ Including worlds busiest airports and complex airspaces with %100 realism.
 | Istanbul TMA, Türkiye| LTFM LTBA LTFJ | 🚧 In testing | Found issues will be fixed. |
 | Bahrain TMA, Bahrain | OBBI OBKH OBBS | ✅ Completed | Realistic air traffic will be added. |
 | Baku TMA, Azerbaijan | UBBB | ✅ Completed | Only PMS approach from south included. |
-| Moscow TMA, Russia | UUEE UUWW UUDD | ✅ Completed | Fully completed. |
+| Moscow TMA, Russia | UUEE UUWW UUDD UUBW| ✅ Completed | Fully completed. |
 
 ## 📝 Notes
 
