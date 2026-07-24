@@ -18,8 +18,6 @@ Including worlds busiest airports and complex airspaces with %100 realism.
 
 ## 📝 Notes
 
- More Airports will be added in this summer. Mexico City TMA from Mexico including Point Merge System will be added with fixes to other files!
- 
  Airspaces other than Moscow TMA does not includes realistic air traffic (airlines) using base airlines EndlessATC offers due it is a very time consuming thing to implement but I will be adding them through the summer when I'm free. 
 
 ## 🚧 Current Project
