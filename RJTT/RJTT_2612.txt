@@ -1,9 +1,8 @@
-#Tokyo Approach/Departure (AIRAC2610) (Version 0.0)
+#Tokyo Approach/Departure (AIRAC2612) (Version 0.0)
 #If there are any issues please contact me
 #4767
 #At AROSA arrivals for RJTT 
 #I forgot second connecting route Y824 but Y875 is there only
-#Plus ENR charts and route network is confusing asf.
 
 [airspace]
 
